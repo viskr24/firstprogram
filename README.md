@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/viskr24/firstprogram/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Wanna see my tables file?? [Click here](https://viskr24.github.io/firstprogram/tables.html) to have fun...
+## Wanna see my tables file?? [Click here](https://viskr24.github.io/firstprogram/tables.html) to have fun...
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -32,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/viskr24/firstprogram/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/viskr24/firstprogram/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file
 
 ### Support or Contact
 
