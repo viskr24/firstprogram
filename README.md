@@ -7,6 +7,6 @@
 <br>
 1. [CSS project](https://viskr24.github.io/firstprogram/finalProject.html)
 <br>
-1. https://www.heroku.com/
+1. (https://www.heroku.com/)
 <br>
-1. http://www.csszengarden.com/
+1. (http://www.csszengarden.com/)
