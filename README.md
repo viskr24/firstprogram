@@ -1,4 +1,4 @@
-![Github logo](https://www.invispace.com/wp-content/uploads/2019/10/github.gif)
+![Github logo](https://miro.medium.com/max/3240/1*FsqitFvksKYy8Lu3jCQR9w.png)
 <br>
 <br>
 #---Mere saare projects timepass vaaale ---
