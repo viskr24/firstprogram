@@ -5,7 +5,7 @@
 #---Mere saare projects timepass vaaale ---
 <br>
 <br>
-1.HTML5 project
+1. [HTML5 Project](https://viskr24.github.io/firstprogram/tables.html)
 <br>
-1.CSS project
+1. [CSS project](https://viskr24.github.io/firstprogram/finalProject.html)
 <br>
