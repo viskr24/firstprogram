@@ -9,7 +9,7 @@
 <br>
 1. [Ye bas ek chota sa table ka project hai](https://viskr24.github.io/firstprogram/tables.html)
 <br>
-1. [week2 Project](https://viskr24.github.io/firstprogram/week2/index,html)
+1. [week2 Project](https://viskr24.github.io/firstprogram/week2/index.html)
 <br>
 1. [Tujhe timepass karna hai?????? YAHA DABA](https://www.heroku.com/)
 <br>
