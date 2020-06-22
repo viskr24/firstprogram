@@ -5,5 +5,8 @@
 <br>
 1. [HTML5 Project](https://viskr24.github.io/firstprogram/tables.html)
 <br>
-2. [CSS project](https://viskr24.github.io/firstprogram/finalProject.html)
+1. [CSS project](https://viskr24.github.io/firstprogram/finalProject.html)
 <br>
+1. https://www.heroku.com/
+<br>
+1. http://www.csszengarden.com/
