@@ -1,4 +1,4 @@
-![Github logo](https://lawyerlearnsblockchain.com/wp-content/uploads/2019/01/GitHub-brave-hed-796x418.jpg)
+![Github logo](https://lawyerlearnsblockchain.com/wp-content/uploads/2019/01/GitHub-brave-hed-796x418.jpg | width = 50)
 <br>
 <br>
 #---Mere saare projects timepass vaaale ---
