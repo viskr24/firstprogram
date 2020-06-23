@@ -26,7 +26,7 @@ a:hover{
   background-color:rgba(255,255,255,0.9);
 }
 .left{
-  background-color:pink;
+  background-color:#cce0ff;
   float:left;
   width:40%;
   padding:1%;
@@ -36,7 +36,7 @@ a:hover{
 }
 img{
   width:88%;
-  display:block;
+  display:inline;
   border:3px solid black;
   margin:4%;
   margin-bottom:6%;
@@ -49,5 +49,32 @@ img{
   font-size:x-large;
 }
 table{
-  float:left;
+  font-family:sans-serif;
+}
+td{
+  line-height:50px;
+  opacity:.8;
+  background-color:#b3d1ff;
+  text-align:center;
+  padding:0px 5px 0px 5px;
+}
+td:hover{
+  background-color:#99c2ff;
+  opacity:1;
+}
+td:first-child{
+  text-align:left;
+}
+th{
+  opacity:.8;
+  font-size:x-large;
+  border-radius:5px 5px 0px 0px;
+  background-color:#005ce6;
+  line-height:60px;
+  border-bottom:5px solid #003380;
+  color:white;
+}
+th:hover{
+  background-color:#0047b3;
+  opacity:1;
 }
