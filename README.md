@@ -13,6 +13,8 @@
 <br>
 1. [Image test](https://viskr24.github.io/firstprogram/image test/index.html)
 <br>
+1. [javascript week2](https://viskr24.github.io/firstprogram/javascript week2/main.html)
+<br>
 1. [Tujhe timepass karna hai?????? YAHA DABA](https://www.heroku.com/)
 <br>
 1. [Ye bhi ek random link hai](http://www.csszengarden.com/)
