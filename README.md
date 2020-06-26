@@ -5,9 +5,9 @@
 <br>
 1. [HTML5 Project](https://viskr24.github.io/firstprogram/html/html_proj.html)
 <br>
-1. [CSS project](https://viskr24.github.io/firstprogram/finalProject.html)
+1. [CSS project](https://viskr24.github.io/firstprogram/css/finalProject.html)
 <br>
-1. [Ye bas ek chota sa table ka project hai](https://viskr24.github.io/firstprogram/tables.html)
+1. [Ye bas ek chota sa table ka project hai](https://viskr24.github.io/firstprogram/test/tables.html)
 <br>
 1. [week4 Project](https://viskr24.github.io/firstprogram/week2/index.html)
 <br>
