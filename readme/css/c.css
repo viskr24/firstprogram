@@ -1,0 +1,32 @@
+html{
+	font-family:Courier;
+	background-image:url("https://wallpaperaccess.com/full/806427.jpg");
+	color:white;
+	padding:1%;
+	margin:1%;
+	font-size:large;
+}
+h1,h2{
+	text-align:center;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+ul{
+	margin-left:5%;
+	border:1px solid white;
+	float:left;
+}
+li{
+	border:1px solid white;
+	padding:2%;
+	margin:2%;
+}
+ol li:hover{
+	cursor:pointer;
+	background-color:rgba(253, 255, 253, 0.6);
+}
+ol li:active{
+	background-color:rgba(253, 255, 253, 0.8);
+}
